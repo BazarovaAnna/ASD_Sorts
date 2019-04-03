@@ -12,7 +12,6 @@ double y;
 int i;
 double m;
 } struct_in; 
-//put here structure (x,y,i)
 
 int main() 
 {
